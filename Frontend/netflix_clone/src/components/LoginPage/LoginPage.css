@@ -1,0 +1,38 @@
+
+.cte{
+    margin-right: 15px;
+    margin-top: 50px;
+    float: right;
+}
+
+.mnc{width: 100%;}
+
+.exampleInputEmail1{
+  color: red;
+}
+
+.form-label{
+  font-size: 33px;
+  font-weight: 600;
+}
+/* background-image: url("../LoginPage/Netflix_2.jpg"); */
+.fgh{
+  background-color: black;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+.form-control{
+  width: 20rem;
+}
+
+.vvs{
+  font-size: 14px;
+}
+
+/* .bgi{
+  background-image: url("../LoginPage/Netflix_2.jpg");
+  
+} */

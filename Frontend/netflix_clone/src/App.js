@@ -1,7 +1,14 @@
+// eslint-disable-next-line
+import Header from './components/Header/Header';
+import { LoginPage } from './components/LoginPage/LoginPage';
+
+
 function App() {
   return (
     <div>
-      <h1>Netflix</h1>
+      <Header/>
+      <LoginPage/>
+
     </div>
   );
 }
